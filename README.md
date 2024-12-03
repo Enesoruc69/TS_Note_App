@@ -22,4 +22,4 @@
 - **React Select**: Allows dynamic filtering with dropdowns.
 - **UUID**: Generates unique IDs for notes.
 
-![GIF](note.gif)# TS_Note_App
+![GIF](note.gif)
